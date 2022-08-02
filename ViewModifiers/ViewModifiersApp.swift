@@ -11,7 +11,7 @@ import SwiftUI
 struct ViewModifiersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ViewModifiersView()
         }
     }
 }
